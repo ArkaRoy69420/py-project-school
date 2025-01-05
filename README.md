@@ -1,1 +1,1 @@
-# py-project-school
+This is folder for python projects that was made for school project, dont mind my bad program [I don't know python 🙏]
